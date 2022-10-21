@@ -17,7 +17,7 @@
 ## Hello, I'm Neil, here 👋
 
 ### About me
-I have been working in an IT industry for 19 years now. Experienced working on a startup company at earlier stage of my career exposed to Java technologies. And then moved to a consulting firm that exposed me on a variety of technologies and roles. And now working in an enterprise organization as Technical Architect focus on cloud migration/engineering (i.e AWS) work.
+I have been working in an IT industry for 19 years now. Experienced working on a startup company at earlier stage of my career exposed to Java technologies. And then moved to a consulting firm that exposed me on a variety of technologies (i.e C#.NET, AEM) and roles. And now working in an enterprise organization as Technical Architect focus on cloud migration/engineering (i.e AWS) work.
 
 Currently engaged with a hybrid work. Reporting in the office from time to time but working from home is still the best option in my opinion for IT staff as I can save time from the traffic in the Metro Manila and put it in a more on a productive type of work like learning new stuff that can help the team.
 
