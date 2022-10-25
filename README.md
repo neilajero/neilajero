@@ -17,9 +17,11 @@
 ## Hello, I'm Neil, here 👋
 
 ### About me
-I have been working in an IT industry for 19 years now. Experienced working on a startup company at earlier stage of my career exposed to Java technologies. And then moved to a consulting firm that exposed me on a variety of technologies (i.e C#.NET, AEM) and roles. And now working in an enterprise organization as Technical Architect focus on cloud migration/engineering (i.e AWS) work.
+I have been working in an IT industry for 19 years now. Experienced working on a variety of company from startup company utilizing Java technologies like J2EE, EJB, Wildfly and MySQL8. And then moved to a consulting firm that exposed me to a content management solutions/framework like Pega Process Commander and AEM (Adobe Experience Manager) with back-end services written in C#.NET. And now working in an enterprise organization as Technical Architect focus mainly on cloud engineering (i.e AWS) work.
 
-Currently engaged with a hybrid work. Reporting in the office from time to time but working from home is still the best option in my opinion for IT staff as I can save time from the traffic in the Metro Manila and put it in a more on a productive type of work like learning new stuff that can help the team.
+I'm currently engaged on a hybrid work. Reporting in the office from time to time and working from home. I still prefer working from home nowadays to save a lot of time from the traffic in the Metro Manila and put more of that time learning new stuff that can help the team.
+
+I am currently building my portfolio that is targeted to help people with zero-knowledge in programming but have that interest and passion to learn computer programming with a mindset of writing "clean code".
 
 <!--
 **neilajero/neilajero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
