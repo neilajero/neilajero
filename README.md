@@ -17,7 +17,7 @@
 ## Hello, I'm Neil, here 👋
 
 ### About me
-I have been working in an IT industry for 19 years now. Experienced working on a variety of company from startup company utilizing Java technologies like J2EE, EJB, Wildfly and MySQL8. And then moved to a consulting firm that exposed me to a content management solutions/framework like Pega Process Commander and AEM (Adobe Experience Manager) with back-end services written in C#.NET. And now working in an enterprise organization as Technical Architect focus mainly on cloud engineering (i.e AWS) work.
+I have been working in an IT industry for 19 years now. Experienced working on a variety of company and industry from startup company utilizing Java technologies like J2EE, EJB, Wildfly and MySQL8. And then moved to a consulting firm that exposed me to a content management solutions/framework like Pega Process Commander and AEM (Adobe Experience Manager) with back-end services written in C#.NET. And now working in an enterprise organization as Technical Architect focus mainly on cloud engineering (i.e AWS) work.
 
 I'm currently engaged on a hybrid work. Reporting in the office from time to time and working from home. I still prefer working from home nowadays to save a lot of time from the traffic in the Metro Manila and put more of that time learning new stuff that can help the team.
 
